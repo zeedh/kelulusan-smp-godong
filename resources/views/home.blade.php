@@ -6,7 +6,7 @@
         <h1 class="display-4 fw-bold mb-3">Selamat Datang di Portal Kelulusan</h1>
         <h1 class="display-4 fw-bold mb-3">SMP Negeri 1 Godong </h1>
         <p class="lead mb-4"></p>
-        <a href="/search" class="btn btn-success btn-lg text-white shadow-sm px-4 py-2">
+        <a href="/search" class="btn btn-success btn-lg text-white shadow-sm px-4 py-2 mt-3">
             Cek Kelulusan Sekarang!
         </a>
     </div>
